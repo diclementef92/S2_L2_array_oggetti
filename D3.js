@@ -154,7 +154,7 @@ const me = {
   skills: ["javascript", "html", "css"],
 };
 console.log("oggetto me:", me);
-// TODO: //
+
 me.city = "Toronto";
 
 console.log("Aggiungo proprietà city", me);
